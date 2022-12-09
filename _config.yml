@@ -1,8 +1,13 @@
 title: OpenBIM
 description: OpenBIM materialer til undervisning
 
-remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
+
+theme: jekyll-theme-midnight
+# remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
 github_repo_url: "https://kristoffernegendahl.github.io/openBIM/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+
+
+
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
