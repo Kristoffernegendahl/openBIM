@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T08:14:29.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="S36gn0d3FgPGx-rLbIa5" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T08:16:47.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rQ-fW-LW6BmWWO_Z4-g5" version="22.1.18" type="github">
   <diagram name="Page-1" id="W9PhXfYBVUYhv20Ytn_u">
     <mxGraphModel dx="1147" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="5U5OHrGouKqXGhUQuQuf-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=135;strokeColor=none;fillColor=#ffe6cc;fillStyle=auto;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="338.32" y="245.95" width="61.46" height="69.39" as="geometry" />
         </mxCell>
-        <mxCell id="5U5OHrGouKqXGhUQuQuf-2" value="&lt;h1&gt;DTU&#39;s vej til OpenBIM&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="190" height="70" as="geometry" />
+        <mxCell id="5U5OHrGouKqXGhUQuQuf-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DTU&#39;s vej til OpenBIM&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5U5OHrGouKqXGhUQuQuf-4" value="&lt;b&gt;Intro til BIM&lt;/b&gt;&lt;br&gt;(Revit)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="100" height="100" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="5U5OHrGouKqXGhUQuQuf-6" value="&lt;b&gt;OpenBIM&lt;/b&gt;&lt;br&gt;(BlenderBIM/&lt;br&gt;IFC mm.)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5U5OHrGouKqXGhUQuQuf-7" value="&lt;b&gt;Vidregående BIM&lt;/b&gt;&lt;br&gt;(IfcOpenShell,&lt;br&gt;Python, mm.)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
+        <mxCell id="5U5OHrGouKqXGhUQuQuf-7" value="&lt;b&gt;Vidregående OpenBIM&lt;/b&gt;&lt;br&gt;(IfcOpenShell,&lt;br&gt;Python, mm.)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5U5OHrGouKqXGhUQuQuf-8" value="&lt;b&gt;Videregående bygnings-projektering&lt;/b&gt;&lt;br&gt;(IFC-samarbejde)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
@@ -43,14 +43,14 @@
         <mxCell id="5U5OHrGouKqXGhUQuQuf-10" value="&lt;b&gt;Digitale design-værktøjer&amp;nbsp;til Bæredygtigt Byggeri&amp;nbsp;&lt;/b&gt;&lt;br&gt;(IFC mm.)" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCE9F;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5U5OHrGouKqXGhUQuQuf-11" value="Introforløb til Bygnings-modellering og BIM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="170" height="30" as="geometry" />
+        <mxCell id="5U5OHrGouKqXGhUQuQuf-11" value="Introforløb til Bygnings-modellering og BIM" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U5OHrGouKqXGhUQuQuf-12" value="Introforløb til avanceret automatisering og BIM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U5OHrGouKqXGhUQuQuf-13" value="Introforløb til åbne standarder og OpenBIM" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="300" width="150" height="30" as="geometry" />
+          <mxGeometry x="530" y="300" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U5OHrGouKqXGhUQuQuf-14" value="Avanceret manipulation og automatisering v, OpenBIM" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="390" width="150" height="30" as="geometry" />
